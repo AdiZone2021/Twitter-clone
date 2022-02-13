@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AdiZone2021/twitter-clone.git/static/css/main.50aa2f0e.chunk.css",
+    "main.js": "/AdiZone2021/twitter-clone.git/static/js/main.59118d74.chunk.js",
+    "main.js.map": "/AdiZone2021/twitter-clone.git/static/js/main.59118d74.chunk.js.map",
+    "runtime-main.js": "/AdiZone2021/twitter-clone.git/static/js/runtime-main.bf666e2e.js",
+    "runtime-main.js.map": "/AdiZone2021/twitter-clone.git/static/js/runtime-main.bf666e2e.js.map",
+    "static/js/2.b44ef6ff.chunk.js": "/AdiZone2021/twitter-clone.git/static/js/2.b44ef6ff.chunk.js",
+    "static/js/2.b44ef6ff.chunk.js.map": "/AdiZone2021/twitter-clone.git/static/js/2.b44ef6ff.chunk.js.map",
+    "static/js/3.1bc166e8.chunk.js": "/AdiZone2021/twitter-clone.git/static/js/3.1bc166e8.chunk.js",
+    "static/js/3.1bc166e8.chunk.js.map": "/AdiZone2021/twitter-clone.git/static/js/3.1bc166e8.chunk.js.map",
+    "index.html": "/AdiZone2021/twitter-clone.git/index.html",
+    "static/css/main.50aa2f0e.chunk.css.map": "/AdiZone2021/twitter-clone.git/static/css/main.50aa2f0e.chunk.css.map",
+    "static/js/2.b44ef6ff.chunk.js.LICENSE.txt": "/AdiZone2021/twitter-clone.git/static/js/2.b44ef6ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf666e2e.js",
+    "static/js/2.b44ef6ff.chunk.js",
+    "static/css/main.50aa2f0e.chunk.css",
+    "static/js/main.59118d74.chunk.js"
+  ]
+}
